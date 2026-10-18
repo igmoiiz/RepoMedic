@@ -1,7 +1,7 @@
 ---
 title: "Phase 4 — Diagnostic report and local UI"
 type: task
-status: pending
+status: completed
 priority: medium
 depends_on:
   - task-phase3
