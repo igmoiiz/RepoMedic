@@ -1,7 +1,7 @@
 ---
 title: "Phase 3 — Evidence ledger and hypothesis engine"
 type: task
-status: pending
+status: completed
 priority: high
 depends_on:
   - task-phase2
