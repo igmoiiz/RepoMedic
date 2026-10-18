@@ -1,7 +1,7 @@
 ---
 title: "Phase 5 — Patch proposal and approval"
 type: task
-status: pending
+status: completed
 priority: medium
 depends_on:
   - task-phase4
