@@ -1,7 +1,7 @@
 ---
 title: "Phase 2 — Python source index and fault localization"
 type: task
-status: pending
+status: completed
 priority: high
 depends_on:
   - task-phase1
