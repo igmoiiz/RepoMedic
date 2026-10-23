@@ -1,7 +1,7 @@
 ---
 title: "Phase 6 — Benchmark, reliability, and release"
 type: task
-status: pending
+status: completed
 priority: low
 depends_on:
   - task-phase5
